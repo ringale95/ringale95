@@ -39,5 +39,5 @@
 
 # 📊 GitHub Stats:  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hleGh3cGZlOTI5NXY4NDRkOHpmdmh1NmJneWlua3UwOWNudnhvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="30"/>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ringale95&theme=dark)](https://git.io/streak-stats)
+ ![ringale95's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ringale95&theme=dark&hide_border=true)
 
