@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Raveena Ingale
-
+***
 🎓 I'm a grad student pursuing masters in Computer Software Engineering at Northeastern University, Boston.
 
 🔭 I am enthusiastic about roles in Full Stack Engineering, DevOps, and Site Reliability Engineering (SRE). I have contributed to diverse projects, including the deployment of Event-Driven microservices on AWS and GCP. 
@@ -13,4 +13,4 @@
 📫 I welcome discussions on technologies and ideas. Feel free to connect with me at https://www.linkedin.com/in/raveenaingale/
 
 # 🌐 Socials:
-***
+
