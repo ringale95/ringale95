@@ -1,4 +1,4 @@
-## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FybHRqeTRrM2h0bXQ2bHdqZzYwMDA4NHkxc3Y4NHNzcjNqZGNqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n1NLjLW22bhxUKCfyD/giphy.gif" width = "20" />,  I am Raveena Ingale
+## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FybHRqeTRrM2h0bXQ2bHdqZzYwMDA4NHkxc3Y4NHNzcjNqZGNqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n1NLjLW22bhxUKCfyD/giphy.gif" width = "30" />,  I am Raveena Ingale
 
 🎓 I'm a grad student pursuing masters in Computer Software Engineering at Northeastern University, Boston.
 
