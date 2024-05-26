@@ -11,3 +11,5 @@
 😄 Before pursuing my Masters I worked at LTI Mindtree and Huron Eurasia, where I played a key role in the development of projects like an Custom Reporting system for Insurance application and Building custom UI components for Salesforce CRM. These experiences allowed me to gain expertise in technologies such as React, Spring Boot, Docker, and Kubernetes
 
 📫 I welcome discussions on technologies and ideas. Feel free to connect with me at https://www.linkedin.com/in/raveenaingale/
+
+# 🌐 Socials:
