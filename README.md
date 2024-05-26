@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hleGh3cGZlOTI5NXY4NDRkOHpmdmh1NmJneWlua3UwOWNudnhvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="60"/> About Me:
 
 ## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FybHRqeTRrM2h0bXQ2bHdqZzYwMDA4NHkxc3Y4NHNzcjNqZGNqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n1NLjLW22bhxUKCfyD/giphy.gif" width = "50" />,  I am Raveena Ingale
 
@@ -47,5 +47,4 @@
 ![ringale95's Stats](https://github-readme-stats.vercel.app/api?username=ringale95&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![ringale95's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ringale95&theme=dark&hide_border=true)
 ![ringale95's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ringale95&theme=dark&show_icons=true&hide_border=true&layout=compact)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hleGh3cGZlOTI5NXY4NDRkOHpmdmh1NmJneWlua3UwOWNudnhvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
 
