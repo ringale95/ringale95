@@ -14,5 +14,5 @@
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raveenaingale/)
+[![LinkedIn](https://img.shields.io/badge](https://www.linkedin.com/in/raveenaingale/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/raveena.ingale/)
