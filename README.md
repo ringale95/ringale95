@@ -1,10 +1,5 @@
 ## Hi there 👋, I am Raveena Ingale
 
-<!--
-**ringale95/ringale95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🎓 I'm a grad student pursuing masters in Computer Software Engineering at Northeastern University, Boston.
 - 🔭 I am enthusiastic about roles in Full Stack Engineering, DevOps, and Site Reliability Engineering (SRE). I have contributed to diverse projects, including the deployment of Event-Driven microservices on AWS and GCP. 
 - 🌱 I’m currently learning Kubernetes and Docker alongwith super Leetcode hard questions
